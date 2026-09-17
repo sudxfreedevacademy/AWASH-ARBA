@@ -1,0 +1,26 @@
+echo Executing Server Config...
+lanmode 1
+rcon_password RLRPMarkandClaude
+hostname ETHIO CITY RP
+gamemode0 RLRP 1
+filterscripts buttons Toll ls_elevator AFK gCamera flash lsmall
+plugins streamer
+chatlogging 1
+weburl Coming Soon
+onfoot_rate 40
+incar_rate 40
+weapon_rate 40
+stream_distance 500.0
+stream_rate 1000
+logtimeformat [%H:%M:%S]
+
+ 
+30 
+
+
+port 7777
+maxplayers 1000
+query 1
+
+announce 1
+ibind 25.43.187.1
